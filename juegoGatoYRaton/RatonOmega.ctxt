@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=RatonOmega
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ RatonOmega\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ pasarLocalizacion()
+comment2.text=\r\n\ Transfiere\ la\ localizacion\ actual\ a\ las\ variables\ globales.\r\n
+comment3.params=
+comment3.target=void\ limitesDelMapa()
+comment3.text=\r\n\ A\u00F1ade\ los\ limites\ del\ mapa\r\n
+comment4.params=
+comment4.target=void\ movimientoBasico()
+comment4.text=\r\n\ A\u00F1ade\ el\ movimiento\ b\u00E1sico\ al\ rat\u00F3n.\r\n
+comment5.params=
+comment5.target=void\ IA()
+comment5.text=\r\n\ A\u00F1ade\ el\ efecto\ IA.\r\n
+comment6.params=
+comment6.target=void\ viendoEnemigo()
+comment7.params=
+comment7.target=void\ obtenerVidaTotal()
+comment7.text=\r\n\ Actualiza\ la\ vida\ del\ enemigo.\r\n
+comment8.params=
+comment8.target=void\ matar()
+comment8.text=\r\n\ Permite\ matar\ a\ esta\ unidad\ en\ caso\ de\ que\ ya\ no\ tenga\ mas\ vida.\r\n
+numComments=9

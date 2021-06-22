@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=variablesGlobales
+comment0.text=\r\n\ Esta\ clase\ s\u00F3lo\ sirve\ para\ almacenar\ variables\ globales\ de\ objetos\ temporales\ y\ algunas\ veces,\ objetos\ normales.\r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=x\ y
+comment2.target=void\ asignarOmegaPos(int,\ int)
+comment3.params=
+comment3.target=int\ obtenerOmegaX()
+comment4.params=
+comment4.target=int\ obtenerOmegaY()
+comment5.params=
+comment5.target=void\ sumarColor()
+comment6.params=
+comment6.target=int\ obtenerColor()
+comment7.params=
+comment7.target=void\ resetearColor()
+numComments=8

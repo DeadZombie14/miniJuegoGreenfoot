@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Proyectiles
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Proyectiles\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Proyectiles\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ limitesDelMapa()
+comment2.text=\r\n\ A\u00F1ade\ los\ limites\ del\ mapa\r\n
+comment3.params=
+comment3.target=void\ apuntar()
+comment3.text=\r\n\ A\u00F1ade\ el\ movimiento\ hacia\ donde\ apunte\ el\ gato.\r\n
+comment4.params=
+comment4.target=void\ intersectar()
+comment4.text=\r\n\ Si\ el\ disparo\ intersecta,\ elimina\ al\ enemigo.\r\n
+comment5.params=
+comment5.target=void\ intersectarOmega()
+comment5.text=\r\n\ Si\ el\ disparo\ intersecta,\ baja\ vida\ al\ enemigo.\r\n
+comment6.params=
+comment6.target=void\ sumarPuntuacion()
+comment6.text=\r\n\ Sumar\ 1\ a\ la\ puntuacion\ total.\r\n
+comment7.params=
+comment7.target=void\ restarVidaEnemigo()
+comment7.text=\r\n\ Restar\ 1\ a\ la\ vida\ del\ enemigo.\r\n
+numComments=8
